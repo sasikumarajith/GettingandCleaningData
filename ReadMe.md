@@ -1,3 +1,4 @@
+The objective of this project is to load the Samsung Human Activity Recognition dataset and merge the training and test dataset. After the merge the dataset is subset and summarized to give a clean and tidy data for further analysis. Below is the script for the code which will do this.
 #Script for preparing a tidy dataset from Samsung Dataset
 
 ##Below code chunk changes working directory to train and reads the training set, label file and subject id file and merges it
